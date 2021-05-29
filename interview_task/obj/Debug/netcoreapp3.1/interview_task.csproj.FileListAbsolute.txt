@@ -1,0 +1,13 @@
+E:\Csabi\.net\interview_task\interview_task\bin\Debug\netcoreapp3.1\interview_task.exe
+E:\Csabi\.net\interview_task\interview_task\bin\Debug\netcoreapp3.1\interview_task.deps.json
+E:\Csabi\.net\interview_task\interview_task\bin\Debug\netcoreapp3.1\interview_task.runtimeconfig.json
+E:\Csabi\.net\interview_task\interview_task\bin\Debug\netcoreapp3.1\interview_task.runtimeconfig.dev.json
+E:\Csabi\.net\interview_task\interview_task\bin\Debug\netcoreapp3.1\interview_task.dll
+E:\Csabi\.net\interview_task\interview_task\bin\Debug\netcoreapp3.1\interview_task.pdb
+E:\Csabi\.net\interview_task\interview_task\obj\Debug\netcoreapp3.1\interview_task.csprojAssemblyReference.cache
+E:\Csabi\.net\interview_task\interview_task\obj\Debug\netcoreapp3.1\interview_task.AssemblyInfoInputs.cache
+E:\Csabi\.net\interview_task\interview_task\obj\Debug\netcoreapp3.1\interview_task.AssemblyInfo.cs
+E:\Csabi\.net\interview_task\interview_task\obj\Debug\netcoreapp3.1\interview_task.csproj.CoreCompileInputs.cache
+E:\Csabi\.net\interview_task\interview_task\obj\Debug\netcoreapp3.1\interview_task.dll
+E:\Csabi\.net\interview_task\interview_task\obj\Debug\netcoreapp3.1\interview_task.pdb
+E:\Csabi\.net\interview_task\interview_task\obj\Debug\netcoreapp3.1\interview_task.genruntimeconfig.cache
